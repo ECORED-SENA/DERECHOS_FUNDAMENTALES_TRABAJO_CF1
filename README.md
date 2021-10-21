@@ -1,8 +1,8 @@
-# **sena-base-2021 v4.2.0**
+# **Derechos fundamentales del trabajo**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/DERECHOS_FUNDAMENTALES_TRABAJO_CF1/](https://ecored-sena.github.io/DERECHOS_FUNDAMENTALES_TRABAJO_CF1/)
 
 #
 
