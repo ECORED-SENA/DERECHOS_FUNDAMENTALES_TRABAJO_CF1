@@ -57,7 +57,7 @@
               | La posibilidad de acceso a servicios gratuitos de empleo, la formación para el trabajo y la protección contra el desempleo.
         p.mb-3 (Didácticas para la ciudadanía laboral, .2011).
 
-        p.mb-3 De éstos, se derivan otros como condiciones justas y equitativas en el trabajo en términos de la jornada, la remuneración, las vacaciones y tiempos de descanso, la protección en trabajos insalubres o peligrosos, la salud ocupacional, la vinculación a la seguridad social, la protección especial a mujeres y jóvenes, el derecho de pensión, la licencia de maternidad, la estabilidad en el empleo, la irrenunciabilidad a los derechos básicos y la primacía de la realidad sobre las formalidades, así como el derecho de asociación y sindicalización. Para lo cual le invitamos a ver el siguiente vídeo: 
+        p.mb-3 De estos, se derivan otros como condiciones justas y equitativas en el trabajo en términos de la jornada, la remuneración, las vacaciones y tiempos de descanso, la protección en trabajos insalubres o peligrosos, la salud ocupacional, la vinculación a la seguridad social, la protección especial a mujeres y jóvenes, el derecho de pensión, la licencia de maternidad, la estabilidad en el empleo, la irrenunciabilidad a los derechos básicos y la primacía de la realidad sobre las formalidades, así como el derecho de asociación y sindicalización. Para lo cual le invitamos a ver el siguiente video: 
         .row
  
           a.anexo.mb-4.mb-lg-0.my-3(:href="obtenerLink('/downloads/Anexo_Derechos laborales individuales.pdf')" target="_blank" type="application/pdf")
@@ -92,7 +92,7 @@
 
           p Para profundizar esta temática visualizar el siguiente video sobre la Organización Internacional del Trabajo (OIT) como único organismo tripartito de la ONU que reúne a representantes de gobiernos, empleadores y trabajadores de 187 Estados Miembros para elaborar normas, formular políticas y establecer programas que promuevan el trabajo decente para todos.
         .col-8
-          a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo_Los_derechos_fundamentales_en_el_trabajo.mp4')" target="_blank" type="application/pdf")
+          a.anexo.mb-4.mb-lg-0.my-3(href="https://www.youtube.com/watch?v=VzXwkDHtRXc" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto

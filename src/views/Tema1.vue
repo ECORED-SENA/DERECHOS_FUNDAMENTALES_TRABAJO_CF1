@@ -65,15 +65,15 @@
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              | La dignidad humana entendida como autonomía o como posibilidad de diseñar un plan vital y de determinarse según sus características (vivir como quiera)
+              | La dignidad humana entendida como autonomía o como posibilidad de diseñar un plan vital y de determinarse según sus características (vivir como quiera).
             li 
               .lista-ol--cuadro__vineta
                 span 2
-              | La dignidad humana entendida como ciertas condiciones materiales concretas de existencia (vivir bien) 
+              | La dignidad humana entendida como ciertas condiciones materiales concretas de existencia (vivir bien). 
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              | La dignidad humana entendida como intangibilidad de los bienes no patrimoniales, integridad física e integridad moral (vivir sin humillaciones) (…)”
+              | La dignidad humana entendida como intangibilidad de los bienes no patrimoniales, integridad física e integridad moral (vivir sin humillaciones) (…)”.
           
     .row.mb-5
       .col-lg-11.d-block.d-lg-none
@@ -115,16 +115,15 @@
     #t_1_3.titulo-segundo
       .h4 1.3   Constitución política de Colombia
 
-    p La Declaración Universal de los Derechos Humanos es un documento que marca un hito en la historia, elaborada por representantes de todas las regiones del mundo con diferentes antecedentes jurídicos y culturales. Fue proclamada por la Asamblea General de las Naciones Unidas en París, el 10 de diciembre de 1948 como un ideal común para todos los pueblos y naciones.  
+    p El pueblo de Colombia, en ejercicio de su poder soberano, representado por sus delegatarios a la Asamblea Nacional Constituyente, invocando la protección de Dios, y con el fin de fortalecer la unidad de la Nación y asegurar a sus integrantes la vida, la convivencia, el trabajo, la justicia, la igualdad, el conocimiento, la libertad y la paz, dentro de un marco jurídico, democrático y participativo que garantice un orden político, económico y social justo, y comprometido a impulsar la integración de la comunidad latinoamericana, decreta, sanciona y promulga la Constitución política de Colombia de 1991 vigente hasta la actualidad. 
     .row.d-none.d-lg-block
       .row.justify-content-center.align-items-center.p-4.tarjeta_Sp-5
         .col-lg-6    
-          span.etiqueta--black En Colombia la Corte Constitucional en la sentencia T-401 de 1992 plantea en sus fundamentos jurídicos,  que la dignidad humana 
-          span.etiqueta--red <b> “[…] es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución y se la considera como principio fundante del Estado, que tiene valor absoluto no susceptible de ser limitado ni relativizado bajo ninguna circunstancia,[de manera que] “(…) el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado […]” </b>
-          span.etiqueta--black y, por tanto, la integridad del ser humano se constituye en razón de ser, principio y fin último de la organización estatal.
-          br
-          br
-          p A partir de lo preceptuado en el  Artículo 93 de la Constitución de 1991, la jurisprudencia  de la Corte Constitucional  construyó el concepto  de bloque de constitucionalidad,  según el cual en el ordenamiento  jurídico  deben prevalecer  los tratados  internacionales  que  versan sobre derechos  humanos cuya  limitación  está prohibida en los Estados de excepción,  como los convenios de la OIT  y las recomendaciones de sus órganos de control. ((Corte Constitucional (como se citó en La libertad sindical en el mundo del trabajo en Colombia, 2017))  
+          p.mb-3  A partir de lo preceptuado en el  Artículo 93 de la Constitución de 1991, la jurisprudencia  de la Corte Constitucional  construyó el concepto  de bloque de constitucionalidad,  según el cual en el ordenamiento  jurídico  deben prevalecer  los tratados  internacionales  que  versan sobre derechos  humanos cuya  limitación  está prohibida en los Estados de excepción,  como los convenios de la OIT  y las recomendaciones de sus órganos de control. ((Corte Constitucional (como se citó en La libertad sindical en el mundo del trabajo en Colombia, 2017)).
+
+          p.mb-3 En consecuencia, la fuente  principal  del  ordenamiento  laboral colombiano es  la  Constitución  Política,  que  instituye  en  su  Artículo  2  que  los  fines  esenciales del  Estado son proteger  la  vida, la  honra, los bienes,  las creencias  y libertades de las personas residentes en Colombia. Más adelante señala:  Artículo 38, los derechos  de asociación; Artículo  39, el  derecho  de asociación  sindical  y reconocimiento  sin intervención  del  Estado;  Artículo  53, los derechos  de  los trabajadores; Artículo  55,  negociación  colectiva;  Artículo  56,  derecho  de  huelga;  Artículo  57, participación de los trabajadores en la gestión de empresa.
+
+
 
         .col-lg-6.mb-5
           img(src="@/assets/curso/images/tema1/img_4.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
@@ -133,22 +132,21 @@
         .col-lg-6.mb-5
           img(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
         .col-lg-6
-          span.etiqueta--black En consecuencia, la fuente  principal  del  ordenamiento  laboral colombiano es  la  Constitución  Política,  que  instituye  en  su  Artículo  2  que  los  fines  esenciales del  Estado son 
-          span.etiqueta--red <b> proteger  la  vida, la  honra, los bienes,  las creencias  y libertades de las personas residentes en Colombia.</b>
-          span.etiqueta--black Más adelante señala:  Artículo 38, los derechos  de asociación; Artículo  39, el  derecho  de asociación  sindical  y reconocimiento  sin intervención  del  Estado;  Artículo  53, los derechos  de  los trabajadores; Artículo  55,  negociación  colectiva;  Artículo  56,  derecho  de  huelga;  Artículo  57, participación de los trabajadores en la gestión de empresa. 
-          br
-          br
-          p De lo anterior se deduce que el derecho del mundo del trabajo en Colombia debe ser leído, interpretado  y analizado  a partir de las Cartas sociales de derechos humanos del Sistema de Naciones Unidas, que incluye  a la OIT  y al Sistema Interamericano de Derechos Humanos. Como  exigencia  democrática,  la  Constitución  Política  de  Colombia  consagra  la  libertad  de las  organizaciones  sindicales.  Solo así  se logra  compensar  y eliminar  la desigualdad  social, mediante  el ejercicio  del derecho de asociación sindical.
 
+          p.mb-3 De lo anterior se deduce que el derecho del mundo del trabajo en Colombia debe ser leído, interpretado  y analizado  a partir de las Cartas sociales de derechos humanos del Sistema de Naciones Unidas, que incluye  a la OIT  y al Sistema Interamericano de Derechos Humanos. Como  exigencia  democrática,  la  Constitución  Política  de  Colombia  consagra  la  libertad  de las  organizaciones  sindicales.  Solo así  se logra  compensar  y eliminar  la desigualdad  social, mediante  el ejercicio  del derecho de asociación sindical. 
+
+          p.mb-3 En tal sentido, el derecho del trabajo debe expulsar la larga sombra de la codificación,  para  entrar  a  un  nuevo  derecho  laboral  con  justicia  social. Si esta justicia no existe, el neoliberalismo congelará cada día más las condiciones generales  de trabajo  y conformará  un sistema  laboral  complejo  pretendidamente ajeno  a la  justicia  social,  con claras  tendencias  a un sistema neocorporativo.  Sin embargo,  al  violentar  los  derechos  laborales,  desintegrar  los derechos  sociales, proscribir y aniquilar  los sindicatos y la autonomía  colectiva  del trabajo, no habrá otra reacción que la resistencia obrera y la lucha sindical.
    
     .row.justify-content-center.align-items-center.d-block.d-lg-none.p-4
       .col-lg-6  
-        span.etiqueta--black En Colombia la Corte Constitucional en la sentencia T-401 de 1992 plantea en sus fundamentos jurídicos,  que la dignidad humana 
-        span.etiqueta--red <b> “[…] es el presupuesto esencial de la consagración y efectividad del sistema de derechos y garantías contemplado en la Constitución y se la considera como principio fundante del Estado, que tiene valor absoluto no susceptible de ser limitado ni relativizado bajo ninguna circunstancia,[de manera que] “(…) el respeto de la dignidad humana debe inspirar todas las actuaciones del Estado […]” </b>
-        span.etiqueta--black y, por tanto, la integridad del ser humano se constituye en razón de ser, principio y fin último de la organización estatal.
-        br
-        br
-        p A partir de lo preceptuado en el  Artículo 93 de la Constitución de 1991, la jurisprudencia  de la Corte Constitucional  construyó el concepto  de bloque de constitucionalidad,  según el cual en el ordenamiento  jurídico  deben prevalecer  los tratados  internacionales  que  versan sobre derechos  humanos cuya  limitación  está prohibida en los Estados de excepción,  como los convenios de la OIT  y las recomendaciones de sus órganos de control. ((Corte Constitucional (como se citó en La libertad sindical en el mundo del trabajo en Colombia, 2017))  
+        p.mb-3  A partir de lo preceptuado en el  Artículo 93 de la Constitución de 1991, la jurisprudencia  de la Corte Constitucional  construyó el concepto  de bloque de constitucionalidad,  según el cual en el ordenamiento  jurídico  deben prevalecer  los tratados  internacionales  que  versan sobre derechos  humanos cuya  limitación  está prohibida en los Estados de excepción,  como los convenios de la OIT  y las recomendaciones de sus órganos de control. ((Corte Constitucional (como se citó en La libertad sindical en el mundo del trabajo en Colombia, 2017)).
+
+        p.mb-3 En consecuencia, la fuente  principal  del  ordenamiento  laboral colombiano es  la  Constitución  Política,  que  instituye  en  su  Artículo  2  que  los  fines  esenciales del  Estado son proteger  la  vida, la  honra, los bienes,  las creencias  y libertades de las personas residentes en Colombia. Más adelante señala:  Artículo 38, los derechos  de asociación; Artículo  39, el  derecho  de asociación  sindical  y reconocimiento  sin intervención  del  Estado;  Artículo  53, los derechos  de  los trabajadores; Artículo  55,  negociación  colectiva;  Artículo  56,  derecho  de  huelga;  Artículo  57, participación de los trabajadores en la gestión de empresa.
+
+        p.mb-3 De lo anterior se deduce que el derecho del mundo del trabajo en Colombia debe ser leído, interpretado  y analizado  a partir de las Cartas sociales de derechos humanos del Sistema de Naciones Unidas, que incluye  a la OIT  y al Sistema Interamericano de Derechos Humanos. Como  exigencia  democrática,  la  Constitución  Política  de  Colombia  consagra  la  libertad  de las  organizaciones  sindicales.  Solo así  se logra  compensar  y eliminar  la desigualdad  social, mediante  el ejercicio  del derecho de asociación sindical. 
+
+        p.mb-3 En tal sentido, el derecho del trabajo debe expulsar la larga sombra de la codificación,  para  entrar  a  un  nuevo  derecho  laboral  con  justicia  social. Si esta justicia no existe, el neoliberalismo congelará cada día más las condiciones generales  de trabajo  y conformará  un sistema  laboral  complejo  pretendidamente ajeno  a la  justicia  social,  con claras  tendencias  a un sistema neocorporativo.  Sin embargo,  al  violentar  los  derechos  laborales,  desintegrar  los derechos  sociales, proscribir y aniquilar  los sindicatos y la autonomía  colectiva  del trabajo, no habrá otra reacción que la resistencia obrera y la lucha sindical.
+        
       .col-lg-6.mb-5
           img(src="@/assets/curso/images/tema1/img_4.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
     .row.justify-content-center.align-items-center.p-4.d-block.d-lg-none
