@@ -71,7 +71,7 @@
         .col-8.col-md-8.col-lg-8
           p.my-3 La acción de tutela se puede interponer, en principio, ante cualquier juez que tenga jurisdicción en el lugar de los hechos que causan la amenaza o la vulneración del derecho. Sin embargo existen unas reglas de competencia establecidas por el Decreto 1382 de 2000, que durante algún tiempo fueron inaplicadas por la Corte Constitucional, pero que ahora son de obligatorio cumplimiento.
  
-          p.mb-3 ichas competencias se establecen de la siguiente manera: Las acciones de tutela que se interpongan contra cualquier autoridad pública del orden nacional, salvo lo dispuesto en el siguiente inciso, serán repartidas para su conocimiento, en primera instancia, a los tribunales superiores de distrito judicial/ administrativo y consejos seccionales de la judicatura.
+          p.mb-3 Dichas competencias se establecen de la siguiente manera: Las acciones de tutela que se interpongan contra cualquier autoridad pública del orden nacional, salvo lo dispuesto en el siguiente inciso, serán repartidas para su conocimiento, en primera instancia, a los tribunales superiores de distrito judicial/ administrativo y consejos seccionales de la judicatura.
           .row 
             ol.lista-ol--cuadro
               li 

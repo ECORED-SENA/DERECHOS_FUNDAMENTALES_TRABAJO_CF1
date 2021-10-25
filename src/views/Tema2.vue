@@ -129,6 +129,11 @@
 
         p Le invitamos a visualizar el video a continuación que ilustra sobre el convenio colectivo laboral:
 
+        a.anexo.mb-4.mb-lg-0.my-3(href="https://www.youtube.com/watch?v=y2nPDbPtgzs" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p <b>Enlace web.</b> Que es el convenio colectivo
         a.anexo.mb-4.mb-lg-0.my-3(:href="obtenerLink('/downloads/Anexo_Sobre_prestaciones_sociales.pdf')" target="_blank" type="application/pdf")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
