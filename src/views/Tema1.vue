@@ -249,7 +249,7 @@
       .row.d-none.d-lg-block
         .row.justify-content-center.align-items-center.p-4
           .col-lg-6.mb-5
-            img(src="@/assets/curso/images/tema1/img_11.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
+            img(src="@/assets/curso/images/tema1/img_11.png" alt="", style="width:450px; display:block; margin: 0 auto;")
           .col-lg-6
             p.mb-3 La protección del mercado interno, de sus industrias y del trabajo formal se caracteriza por la creación de nuevas empresas y la promoción de su crecimiento, derivado de ello se produce la ampliación del trabajo formal protegido y una proporción de las personas en edad de trabajar encuentran un mecanismo de acceso a los derechos sociales: salud, pensión, vivienda, recreación, que así mismo significa trayectorias laborales estables y de larga duración.
 
@@ -291,7 +291,7 @@
     .row.d-block.d-lg-none
       .row.justify-content-center.align-items-center.p-4
         .col-lg-6.mb-5
-          img(src="@/assets/curso/images/tema1/img_11.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
+          img(src="@/assets/curso/images/tema1/img_11.png" alt="", style="width:450px; display:block; margin: 0 auto;")
         .col-lg-6
           p.mb-3 La protección del mercado interno, de sus industrias y del trabajo formal se caracteriza por la creación de nuevas empresas y la promoción de su crecimiento, derivado de ello se produce la ampliación del trabajo formal protegido y una proporción de las personas en edad de trabajar encuentran un mecanismo de acceso a los derechos sociales: salud, pensión, vivienda, recreación, que así mismo significa trayectorias laborales estables y de larga duración.
 
