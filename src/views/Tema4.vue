@@ -115,7 +115,7 @@
           figure
             img(src="@/assets/curso/images/tema4/img_6.svg" alt="", style="width:350px; display:block; margin: 0 auto;")
 
-    .jumbotron-3.p-5.mb-5.d-none.d-lg-block
+    .jumbotron-7.p-5.mb-5.d-none.d-lg-block
       .row.mb-5
         .col-lg-5.mb-5.mb-lg-0
           img(src="@/assets/curso/images/tema4/img_7.svg", alt= "",style="width:450px; display:block; margin:0 auto;") 
