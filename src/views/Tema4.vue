@@ -63,7 +63,7 @@
             .row.justify-content-center.align-items-center         
               .col-8.col-md-8.col-lg-8
                 p.mb-3 Desde este punto de vista el Estado social puede ser definido como el Estado que garantiza estándares mínimos de salario, alimentación, salud, habitación, educación, asegurados para todos los ciudadanos bajo la idea de derecho y no simplemente de caridad.
-          img(src="@/assets/curso/images/tema4/ico_1.svg" alt="", style="width:100px; display:block; margin: -5rem auto;") 
+          img(src="@/assets/curso/images/tema4/ico_1.svg" alt="", style="width:100px; display:block; margin: -4rem auto;") 
 
     .row.mb-5
       .col-lg-11.d-block.d-lg-none

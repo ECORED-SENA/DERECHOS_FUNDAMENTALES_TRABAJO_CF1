@@ -10,9 +10,15 @@
     
     .row.justify-content-center.align-items-center.tarjeta_Sp-1.p-4
       .col-lg-6       
-        p.mb-3 Entre las Centrales de trabajadores y el gobierno nacional se llegó al acuerdo de incorporar en los programas de formación que imparte el SENA, el <b>desarrollo de capacidades entorno al ejercicio de los derechos fundamentales en el trabajo,</b> la política pública del trabajo decente y la construcción de una ciudadanía activa, consciente, participativa e incidente, como expresión tangible de las aspiraciones humanísticas que trascienda la mera información hacia niveles de pensamiento y acción complejas, autónomas y propositivas, como parte constitutiva del desarrollo integral del trabajador.
+        p.mb-3 Entre las centrales de trabajadores y el gobierno nacional se llegó al acuerdo de incorporar en los programas de formación que imparte el SENA, el <b>desarrollo de capacidades entorno al ejercicio de los derechos fundamentales en el trabajo,</b> la política pública del trabajo decente y la construcción de una ciudadanía activa, consciente, participativa e incidente, como expresión tangible de las aspiraciones humanísticas que trascienda la mera información hacia niveles de pensamiento y acción complejas, autónomas y propositivas, como parte constitutiva del desarrollo integral del trabajador.
 
-        p Dicho acuerdo se expresa en el marco de la Constitución Política y los Convenios Internacionales que posibilite a la persona el empoderamiento en sus relaciones laborales y ciudadanas respecto del ejercicio de los derechos fundamentales en el trabajo. Otorgando una comprensión básica acerca de la importancia, de un estado social de derecho, de las garantías ciudadanas, deberes y responsabilidades para el ejercicio pleno de la Ciudadanía Laboral.
+        p.mb-3  Dicho acuerdo se expresa en el marco de la Constitución Política y los Convenios Internacionales que posibilite a la persona el empoderamiento en sus relaciones laborales y ciudadanas respecto del ejercicio de los derechos fundamentales en el trabajo. Otorgando una comprensión básica acerca de la importancia, de un estado social de derecho, de las garantías ciudadanas, deberes y responsabilidades para el ejercicio pleno de la Ciudadanía Laboral.
+
+        p.mb-3 En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante, como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas,  de la promoción de la dignidad humana. 
+
+        p.mb-3 Pero, ¿qué tanto se reconocen los derechos del trabajo en la actualidad? ¿Se respetan y reconocen los derechos del trabajo en los modelos productivos que se desarrollan en la región y el país?
+
+        p Por consiguiente se ofrecerán los elementos de análisis, para que como  aprendices construyan su propia lectura sobre el papel del trabajo en su vida diaria y la forma como se reconocen o no los derechos que emergen de las relaciones de trabajo.
 
       .col-lg-6.mb-5
         img(src="@/assets/curso/images/tema1/intro_1.svg" alt="", style="width:450px; display:block; margin: 0 auto;")

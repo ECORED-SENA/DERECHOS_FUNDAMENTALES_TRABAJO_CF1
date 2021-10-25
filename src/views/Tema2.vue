@@ -128,8 +128,8 @@
         p.mb-3 El contrato colectivo de trabajo, también llamado convenio colectivo de trabajo (CCT) o convención colectiva de trabajo, es un tipo peculiar de contrato celebrado entre un sindicato o grupo de sindicatos y uno o varios empleadores, o un sindicato o grupo de sindicatos y una organización o varias representativas de los mismos. También, en caso que no exista un sindicato, puede ser celebrado por representantes de los trabajadores interesados, debidamente elegidos y autorizados por estos últimos, de acuerdo con la legislación nacional. El contrato colectivo de trabajo puede regular todos los aspectos de la relación laboral (salarios, jornada, descansos, vacaciones, licencias, condiciones de trabajo, capacitación profesional, régimen de despidos, definición de las categorías profesionales), así como determinar reglas para la relación entre los sindicatos y los empleadores (representantes en los lugares de trabajo, información y consulta, cartelera sindical, licencias y permisos para los dirigentes sindicales, etc.), esto último, como se expresa en (Didácticas para la ciudadanía laboral, .2011).
 
         p Le invitamos a visualizar el video a continuación que ilustra sobre el convenio colectivo laboral:
-      
-        a.anexo.mb-4.mb-lg-0(href=" https://www.youtube.com/watch?v=y2nPDbPtgzs" target="_blank")
+
+        a.anexo.mb-4.mb-lg-0.my-3(:href="obtenerLink('/downloads/Anexo_Sobre_prestaciones_sociales.pdf')" target="_blank" type="application/pdf")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -141,7 +141,7 @@
 
     .row.justify-content-center.align-items-center.mb-5   
       .col-lg-6.mb-3 
-        p.mb-3 La libertad sindical es un derecho humano y fundamental que permite a los trabajadores la defensa y promoción de sus derechos para asegurar condiciones dignas de salario, de vida y de trabajo. Es un derecho humano porque es consustancial a la dignidad en el trabajo y porque es una condición indispensable para el progreso económico y social. Su incumplimiento por parte de los empleadores y del gobierno puede ser denunciado ante organismos nacionales e internacionales
+        p.mb-3 La libertad sindical es un derecho humano y fundamental que permite a los trabajadores la defensa y promoción de sus derechos para asegurar condiciones dignas de salario, de vida y de trabajo. Es un derecho humano porque es consustancial a la dignidad en el trabajo y porque es una condición indispensable para el progreso económico y social. Su incumplimiento por parte de los empleadores y del gobierno puede ser denunciado ante organismos nacionales e internacionales.
 
         p Para profundizar sobre el tema en mención consulte la guía conductas atentatorias contra el derecho de asociación sindical del Ministerio del Trabajo y la Organización Internacional del Trabajo (OIT) que se encuentra a continuación:
          
@@ -157,6 +157,12 @@
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p <b>Enlace web.</b>  Que es un sindicato CF
+          
+          a.anexo.mb-4.mb-lg-0.my-3(:href="obtenerLink('/downloads/Anexo_Libertad_Sindical.pdf')" target="_blank" type="application/pdf")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p <b>Enlace web.</b>  Libertad Sindical
       
       .col-lg-5.mb-5.mb-lg-0
         img(src="@/assets/curso/images/tema2/img_6.png" alt="", style="width:400px; display:block; margin: 0 auto;")         
@@ -236,7 +242,7 @@
 
 
     #t_2_7.titulo-segundo
-      .h4 2.7. Organizaciones sindicales.
+      .h4 2.7. Organizaciones sindicales
 
     .row.justify-content-center.align-items-center.mb-5   
       .col-lg-6.mb-3 

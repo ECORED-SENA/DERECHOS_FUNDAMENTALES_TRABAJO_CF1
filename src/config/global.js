@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Derechos fundamentales del trabajo',
     descripcionCurso:
-      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante, como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas,  de la promoción de la dignidad humana. <br><br>Pero, ¿qué tanto se reconocen los derechos del trabajo en la actualidad? ¿Se respetan y reconocen los derechos del trabajo en los modelos productivos que se desarrollan en la región y el país?',
+      'En los distintos procesos del desarrollo de la humanidad, el trabajo ha ejercido un papel determinante, como factor clave en la construcción de las relaciones sociales, de habilidades individuales y colectivas, de la promoción de la dignidad humana.',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.svg'),
   },
@@ -41,7 +41,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Constitución política de Colombia. ',
+            titulo: 'Constitución política de Colombia',
             hash: 't_1_3',
           },
           {
@@ -104,7 +104,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.7',
-            titulo: 'Organizaciones sindicales.',
+            titulo: 'Organizaciones sindicales',
             hash: 't_2_7',
           },
         ],
@@ -119,7 +119,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'La acción de tutela.',
+            titulo: 'La acción de tutela',
             hash: 't_3_1',
           },
           {
@@ -168,11 +168,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //  nombreRuta: 'complementario',
+      //  icono: 'far fa-folder-open',
+      //  titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -511,12 +511,6 @@ export default {
           'Centro de desarrollo agroempresarial de Chía - Regional Cundinamarca',
       },
       {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Diseñadora Instruccional',
         centro:
@@ -554,7 +548,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andrés Mauricio Santaella ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

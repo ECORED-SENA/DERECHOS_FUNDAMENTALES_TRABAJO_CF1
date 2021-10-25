@@ -10,7 +10,7 @@
       .col-12
           img(src="@/assets/curso/images/tema3/img_1.svg" alt="", style="width:1200px; display:block; margin: 0 auto;")
     #t_3_1.titulo-segundo
-      .h4 3.1.	La acción de tutela.  
+      .h4 3.1.	La acción de tutela
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         .jumbotron-4.p-3
@@ -43,7 +43,7 @@
           p.my-5 La acción de tutela protege los derechos fundamentales. Algunos de éstos derechos fundamentales son la vida, la integridad personal, la igualdad, el reconocimiento de la personalidad jurídica, la libertad de conciencia, de religión, de expresión, de circulación, de escogencia de profesión u oficio, de enseñanza y aprendizaje y de investigación y de cátedra, los derechos a la honra y al buen nombre, al debido proceso, a la defensa y a elegir y a ser elegido. También son derechos fundamentales el derecho de petición (ya estudiado) de asociación y los derechos de los niños.
       .row.tarjeta--azul(titulo="¿Cuál es el término que el juez tiene para resolver la solicitud de tutela?")
         .col-8.col-md-8.col-lg-8
-          p.mb-3  En ningún caso podrán transcurrir más de 10 días entre la solicitud de tutela y su resolución
+          p.mb-3  En ningún caso podrán transcurrir más de 10 días entre la solicitud de tutela y su resolución.
         .col-8.col-md-8.col-lg-3
           figure
             img(src="@/assets/curso/images/tema3/ico_4.svg" alt="", style="width:300px; display:block; margin: 0 auto;")
@@ -59,13 +59,14 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Constitución política, artículo 19, artículo 60 y artículo 62.
+                | Cuando el solicitante no sabe escribir
               li
                 i.fas.fa-check
-                | Código del trabajo, artículo 303 y siguientes
+                | Cuando sea menor de edad
               li
                 i.fas.fa-check
-                | Convenio OIT No. 98 (Derecho de sindicación y Negociación Colectiva)
+                | Cuando exista urgencia de protección.
+
       .row.tarjeta--azul(titulo="¿Ante quién se presenta la acción de tutela?")
         .col-8.col-md-8.col-lg-8
           p.my-3 La acción de tutela se puede interponer, en principio, ante cualquier juez que tenga jurisdicción en el lugar de los hechos que causan la amenaza o la vulneración del derecho. Sin embargo existen unas reglas de competencia establecidas por el Decreto 1382 de 2000, que durante algún tiempo fueron inaplicadas por la Corte Constitucional, pero que ahora son de obligatorio cumplimiento.
@@ -76,7 +77,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 1
-                |  los jueces de circuito o con categoría de tales, le serán repartidas para su conocimiento, en primera instancia, las acciones de tutela que se interpongan contra cualquier organismo o entidad del sector descentralizado por servicios del orden nacional o autoridad pública del orden departamental.
+                | A los jueces de circuito o con categoría de tales, le serán repartidas para su conocimiento, en primera instancia, las acciones de tutela que se interpongan contra cualquier organismo o entidad del sector descentralizado por servicios del orden nacional o autoridad pública del orden departamental.
               li 
                 .lista-ol--cuadro__vineta
                   span 2
@@ -120,7 +121,7 @@
 
     .row
       .col-lg-6.mb-3 
-        p.mb-3 Es un derecho fundamental que consiste en la facultad que tiene toda persona de presentar peticiones respetuosas a las autoridades, por motivos de interés general o particular, y de obtener pronta resolución. También procede contra particulares, para garantizar los derechos fundamentales, o cuando ejerzan funciones públicas, o cuando presten servicios públicos, o frente a quien el peticionario se encuentre en estado de subordinación (empleador)
+        p.mb-3 Es un derecho fundamental que consiste en la facultad que tiene toda persona de presentar peticiones respetuosas a las autoridades, por motivos de interés general o particular, y de obtener pronta resolución. También procede contra particulares, para garantizar los derechos fundamentales, o cuando ejerzan funciones públicas, o cuando presten servicios públicos, o frente a quien el peticionario se encuentre en estado de subordinación (empleador).
 
         p Para profundizar sobre estos temas le invitamos a visualizar los siguientes videos:
    

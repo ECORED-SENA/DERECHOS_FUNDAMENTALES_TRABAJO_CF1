@@ -21,7 +21,7 @@
 
     p.mb-3 Término referido para designar a una de las formas de gobierno en que puede ejercerse el poder político del y para el pueblo, siendo la democracia la forma de gobierno de las mayorías o los muchos, a diferencia de las monarquías o las aristocracias.
 
-    p Es entonces que, según Hoyos Morales (como se citó en Pares Fundación pares y reconciliación, 2019)  
+    p Es entonces que, según Hoyos Morales (como se citó en Pares Fundación pares y reconciliación, 2019). 
 
     .row.justify-content-center.align-items-center.d-none.d-lg-block.p-4
       .row.justify-content-center.align-items-center
@@ -113,7 +113,7 @@
     Separador
 
     #t_1_3.titulo-segundo
-      .h4 1.3   Constitución política de Colombia. 
+      .h4 1.3   Constitución política de Colombia
 
     p La Declaración Universal de los Derechos Humanos es un documento que marca un hito en la historia, elaborada por representantes de todas las regiones del mundo con diferentes antecedentes jurídicos y culturales. Fue proclamada por la Asamblea General de las Naciones Unidas en París, el 10 de diciembre de 1948 como un ideal común para todos los pueblos y naciones.  
     .row.d-none.d-lg-block
