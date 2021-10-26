@@ -59,10 +59,10 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Cuando el solicitante no sabe escribir
+                | Cuando el solicitante no sabe escribir.
               li
                 i.fas.fa-check
-                | Cuando sea menor de edad
+                | Cuando sea menor de edad.
               li
                 i.fas.fa-check
                 | Cuando exista urgencia de protección.

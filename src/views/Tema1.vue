@@ -1,43 +1,41 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.position-relative
     .titulo-principal
       .titulo-principal__numero
         span 1
       h1 Trabajo, sociedad y dignidad humana
 
-    .row.justify-content-center.align-items-center.p-4
-      .col-lg-6       
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-7.order-2.order-lg-1      
         p.mb-3 La dignidad como valor intrínseco de la persona, por lo que permite no obedecer a ninguna otra ley salvo que ésta máxima se convierta al mismo tiempo en una ley universal frente a los demás, reconociendo a cada ser racional el mismo valor bajo la determinación consistente en que cada uno debe tenerse a sí mismo como un fin y no como un simple medio. Bajo estas premisas, se plantea la dignidad como base fundamental de los derechos humanos. 
 
         p Los distintos conflictos y guerras a lo largo de la historia de la humanidad, han traído como consecuencia las violaciones a los derechos humanos, impulsando la reflexión ante la necesidad inminente del reconocimiento, tanto de la dignidad como de los derechos humanos, generando un desarrollo en el devenir histórico de formas y mecanismos como garantías para proteger y sancionar su efectivo cumplimiento. 
 
-      .col-lg-6.mb-5
-        img(src="@/assets/curso/images/tema1/img_1.png" alt="", style="width:450px; display:block; margin: 0 auto;")
+      .col-lg-5.mb-5.order-1.order-lg-2
+        img(src="@/assets/curso/images/tema1/img_1.png" alt="", style="width:450px;").m-auto
 
     #t_1_1.titulo-segundo
-      .h4 1.1 La democracia
+      h2 1.1 La democracia
 
-    p.mb-3 Término referido para designar a una de las formas de gobierno en que puede ejercerse el poder político del y para el pueblo, siendo la democracia la forma de gobierno de las mayorías o los muchos, a diferencia de las monarquías o las aristocracias.
+    p Término referido para designar a una de las formas de gobierno en que puede ejercerse el poder político del y para el pueblo, siendo la democracia la forma de gobierno de las mayorías o los muchos, a diferencia de las monarquías o las aristocracias.
 
-    p Es entonces que, según Hoyos Morales (como se citó en Pares Fundación pares y reconciliación, 2019). 
+    p.mb-5 Es entonces que, según Hoyos Morales (como se citó en Pares Fundación pares y reconciliación, 2019). 
 
-    .row.justify-content-center.align-items-center.d-none.d-lg-block.p-4
-      .row.justify-content-center.align-items-center
-        .col-12.col-lg-8.d-none.d-lg-block.my-5   
-          .jumbotron.p-4.tarjeta_Sp-3
-            .bloque-texto-b.color-secundario.p-4
-              .bloque-texto-b__texto
-                i.fas.fa-quote-left
-                p.text-center <b>El sindicalismo es fundamental para la democracia por varias razones:</b> primero porque, precisamente, en la democracia lo que se busca es que haya un equilibrio de poderes, que el Estado no tenga mucha más fuerza que los ciudadanos, y que los ciudadanos tengan mecanismos para reclamar sus derechos, y es a través de las organizaciones sindicales como se expresa ese mecanismo de control, es decir, la fuerza y el poder del Estado y de las empresas frente a la fuerza y el poder de los ciudadanos para reclamar sus derechos laborales. Es un equilibrio, un contrapeso frente al poder de las empresas en una democracia (párr.6). Es a través de la organización sindical que en Colombia históricamente, no sólo se reclama el derecho a un mejor salario, a un salario justo, a jornadas de trabajo justas, sino que los sindicalistas en Colombia han dado una pelea más allá. 
-                i.fas.fa-quote-right
-            h3.text-center Yessika Hoyos Morales
-          img(src="@/assets/curso/images/tema1/ico_1.svg" alt="", style="width:100px; display:block; margin: -3rem auto;") 
-    .row.mb-5
-      .col-lg-11.d-block.d-lg-none
-        .jumbotron-2.p-5 
-          p.mb-0.text-center <b>El sindicalismo es fundamental para la democracia por varias razones:</b> primero porque, precisamente, en la democracia lo que se busca es que haya un equilibrio de poderes, que el Estado no tenga mucha más fuerza que los ciudadanos, y que los ciudadanos tengan mecanismos para reclamar sus derechos, y es a través de las organizaciones sindicales como se expresa ese mecanismo de control, es decir, la fuerza y el poder del Estado y de las empresas frente a la fuerza y el poder de los ciudadanos para reclamar sus derechos laborales. Es un equilibrio, un contrapeso frente al poder de las empresas en una democracia (párr.6). Es a través de la organización sindical que en Colombia históricamente, no sólo se reclama el derecho a un mejor salario, a un salario justo, a jornadas de trabajo justas, sino que los sindicalistas en Colombia han dado una pelea más allá. 
+    .row.justify-content-center.position-relative.pb-4.mb-5
+      .col-lg-8.tarjeta_Sp-3.clr_crd_quote
+        .bloque-texto-b.color-secundario.p-4
+          .bloque-texto-b__texto
+            i.fas.fa-quote-left
+            p.mb-0 #[strong El sindicalismo es fundamental para la democracia por varias razones:] primero porque, precisamente, en la democracia lo que se busca es que haya un equilibrio de poderes, que el Estado no tenga mucha más fuerza que los ciudadanos, y que los ciudadanos tengan mecanismos para reclamar sus derechos, y es a través de las organizaciones sindicales como se expresa ese mecanismo de control, es decir, la fuerza y el poder del Estado y de las empresas frente a la fuerza y el poder de los ciudadanos para reclamar sus derechos laborales. Es un equilibrio, un contrapeso frente al poder de las empresas en una democracia (párr.6). Es a través de la organización sindical que en Colombia históricamente, no sólo se reclama el derecho a un mejor salario, a un salario justo, a jornadas de trabajo justas, sino que los sindicalistas en Colombia han dado una pelea más allá.
+            i.fas.fa-quote-right
+
+        h3.text-center.mb-5 Yessika Hoyos Morales
+        br
+        .floatin_icon  
+          img(src="@/assets/curso/images/tema1/ico_1.svg" alt="", style="width:90px")      
+
     Separador
 
     #t_1_2.titulo-segundo
@@ -55,42 +53,24 @@
         img(src="@/assets/curso/images/tema1/img_2.svg" alt='AvatarTop', style="width:450px;").m-auto 
         
 
-    p.mb-3 El Plan Nacional de Educación en Derechos Humanos –Planedh- nos recuerda que la jurisprudencia de la Corte define tres lineamientos claros y diferenciables en relación con la dignidad humana: “(…) 
+    p.mb-5 El Plan Nacional de Educación en Derechos Humanos –Planedh- nos recuerda que la jurisprudencia de la Corte define tres lineamientos claros y diferenciables en relación con la dignidad humana: “(…)     
 
-    .row.justify-content-center.align-items-center.d-none.d-lg-block.tarjeta_Sp-4.p-4
-      .row.justify-content-center.align-items-center
-        .col-12.col-lg-8.d-none.d-lg-block.my-5
-          br
-          ol.lista-ol--cuadro
-            li 
-              .lista-ol--cuadro__vineta
-                span 1
-              | La dignidad humana entendida como autonomía o como posibilidad de diseñar un plan vital y de determinarse según sus características (vivir como quiera).
-            li 
-              .lista-ol--cuadro__vineta
-                span 2
-              | La dignidad humana entendida como ciertas condiciones materiales concretas de existencia (vivir bien). 
-            li 
-              .lista-ol--cuadro__vineta
-                span 3
-              | La dignidad humana entendida como intangibilidad de los bienes no patrimoniales, integridad física e integridad moral (vivir sin humillaciones) (…)”.
-          
-    .row.mb-5
-      .col-lg-11.d-block.d-lg-none
-        .jumbotron-1.p-5 
-          ol.lista-ol--cuadro
+    .row.justify-content-center.mb-5     
+      .col-12.col-lg-8.clr_crd        
+        ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | La dignidad humana entendida como autonomía o como posibilidad de diseñar un plan vital y de determinarse según sus características (vivir como quiera)
+            | La dignidad humana entendida como autonomía o como posibilidad de diseñar un plan vital y de determinarse según sus características (vivir como quiera).
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | La dignidad humana entendida como ciertas condiciones materiales concretas de existencia (vivir bien) 
+            | La dignidad humana entendida como ciertas condiciones materiales concretas de existencia (vivir bien). 
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | La dignidad humana entendida como intangibilidad de los bienes no patrimoniales, integridad física e integridad moral (vivir sin humillaciones) (…)”
+            | La dignidad humana entendida como intangibilidad de los bienes no patrimoniales, integridad física e integridad moral (vivir sin humillaciones) (…)”.         
+    
 
     p.mb-3 Así, desde el mismo enunciado normativo la dignidad humana es entendida como valor, como principio constitucional y como derecho fundamental autónomo.
 

@@ -134,7 +134,7 @@
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p <b>Enlace web.</b> Que es el convenio colectivo
-        a.anexo.mb-4.mb-lg-0.my-3(:href="obtenerLink('/downloads/Anexo_Sobre_prestaciones_sociales.pdf')" target="_blank" type="application/pdf")
+        a.anexo.mb-4.mb-lg-0.my-3(:href="obtenerLink('/downloads/Anexo_sobre_prestaciones_sociales.pdf')" target="_blank" type="application/pdf")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
