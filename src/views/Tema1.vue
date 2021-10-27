@@ -213,62 +213,21 @@
     Separador
 
     #t_1_5.titulo-segundo
-      h2 1.5 Los derechos del trabajo y en el trabajo
-    	
-    .jumbotron-5.tarjeta_Sp-6.d-none.d-lg-block
-      .row.d-none.d-lg-block
-        .row.justify-content-center.align-items-center.p-4
-          .col-lg-6    
-            p La relación del derecho al trabajo con la vida social, económica, política y cultural de las personas constituye el núcleo de desarrollo de su autonomía y en razón de esto el trabajo puede ser definido como un derecho fundamental, integrante de los derechos de segunda generación denominados Derechos Económicos, Sociales y Culturales (DESC) Desde mediados de 1980 se inicia en Colombia, como en otras partes del mundo, el desmonte paulatino del modelo de trabajo protegido. Este esquema surgido luego de la segunda guerra mundial en el marco de una política proteccionista y de expansión del mercado interno, incentiva el desarrollo de la industria manufacturera colombiana.
+      h2 1.5 Los derechos del trabajo y en el trabajo   
 
-            p Didácticas para la ciudadanía laboral, Escuela Nacional Sindical, 2011).
 
-          .col-lg-6.mb-5
-            img(src="@/assets/curso/images/tema1/img_10.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
-      
-      .row.d-none.d-lg-block
-        .row.justify-content-center.align-items-center.p-4
-          .col-lg-6.mb-5
-            img(src="@/assets/curso/images/tema1/img_11.png" alt="", style="width:450px; display:block; margin: 0 auto;")
-          .col-lg-6
-            p.mb-3 La protección del mercado interno, de sus industrias y del trabajo formal se caracteriza por la creación de nuevas empresas y la promoción de su crecimiento, derivado de ello se produce la ampliación del trabajo formal protegido y una proporción de las personas en edad de trabajar encuentran un mecanismo de acceso a los derechos sociales: salud, pensión, vivienda, recreación, que así mismo significa trayectorias laborales estables y de larga duración.
-
-            p.mb-3 Si bien este tipo de empresas absorbe sólo a una parte modesta de la población económicamente activa, su existencia se asocia a la configuración de un ideal de trabajo estable y bien remunerado. Tal ideal también es el referente de los empleados directos del Estado. Desde mediados de 1980 la posibilidad de acceder a ese derecho es cada vez más incierta, como resultado del aumento del subempleo, la subcontratación y la desregulación laboral.
-
-            p Las dinámicas económicas recientes ligadas a mercados abiertos y altamente competidos son el marco en que cambia el mundo del trabajo, donde el predominio del mercado como mecanismo de coordinación social obedece a un cambio político estructural en el que el estado social y de derecho pierde vigencia y centralidad. Son economías con alta incidencia y peso del sector financiero.
-      
-        .row.justify-content-center.align-items-center.p-4
-          .col-lg-6    
-            p La división internacional del trabajo se basa en el valor agregado, patentes, diseños y comercialización. El crecimiento económico no es sinónimo ni de más ni de mejores empleos, y el aparato productivo no absorbe toda la mano de obra necesitada de empleo. El modelo empresarial útil a esta dinámica se basa en el autocontrol, el uso intensivo de tecnologías de información y comunicación, en nuevas formas de organizar la producción y en otro tipo de trabajador/a. Se hace el tránsito del modelo industrialista, verticalidad, jerarquización, homogeneidad, externalidad, disciplina, hacia horiontalidad, voluntad individual, diversidad, particularidad. Menos vigilancia directa y más autorregulación de trabajadores y trabajadoras. Valores e imaginarios se difunden alrededor de las dinámicas económicas y empresariales que niegan la ciudadanía en el trabajo. Hay una marcada tendencia a creer que tener trabajo no es un derecho sino un privilegio. La dificultad de acceder a un trabajo implica que exigir derechos dentro de este mundo sea desconsiderado y riesgoso. A ello se suma un clima de atomización e individualismo, la competitividad y búsqueda del éxito individual y el percibirse más como consumidores que como ciudadanos y ciudadanas.
-            a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo_DERECHOS_LABORALES.pdf')" target="_blank" type="application/pdf")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace web.</b> video: Derechos fundamentales en el trabajo 
-
-          .col-lg-6.mb-5
-            img(src="@/assets/curso/images/tema1/img_12.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
-            .row.justify-content-center.align-items-center.mt-4
-              .col-12.col-lg-10
-                .bloque-texto-d.color-secundario.p-4
-                  .bloque-texto-d__texto.mb-3
-                    i.fas.fa-quote-left
-                    h3.text-regular El crecimiento económico no es sinónimo ni de más ni de mejores empleos, y el aparato productivo no absorbe toda la mano de obra necesitada de empleo.
-                    i.fas.fa-quote-right
-                  .bloque-texto-d__autor 
-                    .h5.mb-0 Cardona y Vera, 2003
+    .jumbotron-5    
     
-    .jumbotron-5.d-block.d-lg-none
       .row.justify-content-center.align-items-center.p-4
-        .col-lg-6    
+        .col-lg-6.order-2.order-lg-1  
           p La relación del derecho al trabajo con la vida social, económica, política y cultural de las personas constituye el núcleo de desarrollo de su autonomía y en razón de esto el trabajo puede ser definido como un derecho fundamental, integrante de los derechos de segunda generación denominados Derechos Económicos, Sociales y Culturales (DESC) Desde mediados de 1980 se inicia en Colombia, como en otras partes del mundo, el desmonte paulatino del modelo de trabajo protegido. Este esquema surgido luego de la segunda guerra mundial en el marco de una política proteccionista y de expansión del mercado interno, incentiva el desarrollo de la industria manufacturera colombiana.
 
           p Didácticas para la ciudadanía laboral, Escuela Nacional Sindical, 2011).
 
-        .col-lg-6.mb-5
+        .col-lg-6.mb-5.order-1.order-lg-2
           img(src="@/assets/curso/images/tema1/img_10.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
-    
-    .row.d-block.d-lg-none
+      
+      
       .row.justify-content-center.align-items-center.p-4
         .col-lg-6.mb-5
           img(src="@/assets/curso/images/tema1/img_11.png" alt="", style="width:450px; display:block; margin: 0 auto;")
@@ -279,18 +238,18 @@
 
           p Las dinámicas económicas recientes ligadas a mercados abiertos y altamente competidos son el marco en que cambia el mundo del trabajo, donde el predominio del mercado como mecanismo de coordinación social obedece a un cambio político estructural en el que el estado social y de derecho pierde vigencia y centralidad. Son economías con alta incidencia y peso del sector financiero.
     
-      .row.justify-content-center.align-items-center.d-block.d-lg-none.p-4
-        .col-lg-6    
+      .row.justify-content-center.align-items-center.p-4
+        .col-lg-6.order-2.order-lg-1   
           p La división internacional del trabajo se basa en el valor agregado, patentes, diseños y comercialización. El crecimiento económico no es sinónimo ni de más ni de mejores empleos, y el aparato productivo no absorbe toda la mano de obra necesitada de empleo. El modelo empresarial útil a esta dinámica se basa en el autocontrol, el uso intensivo de tecnologías de información y comunicación, en nuevas formas de organizar la producción y en otro tipo de trabajador/a. Se hace el tránsito del modelo industrialista, verticalidad, jerarquización, homogeneidad, externalidad, disciplina, hacia horiontalidad, voluntad individual, diversidad, particularidad. Menos vigilancia directa y más autorregulación de trabajadores y trabajadoras. Valores e imaginarios se difunden alrededor de las dinámicas económicas y empresariales que niegan la ciudadanía en el trabajo. Hay una marcada tendencia a creer que tener trabajo no es un derecho sino un privilegio. La dificultad de acceder a un trabajo implica que exigir derechos dentro de este mundo sea desconsiderado y riesgoso. A ello se suma un clima de atomización e individualismo, la competitividad y búsqueda del éxito individual y el percibirse más como consumidores que como ciudadanos y ciudadanas.
           a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo_DERECHOS_LABORALES.pdf')" target="_blank" type="application/pdf")
             .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
+              img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
-              p <b>Enlace web.</b> video: Derechos fundamentales en el trabajo 
+              p <b>Enlace web.</b> PDF: Cambios en el mundo del trabajo
 
-        .col-lg-6.mb-5
+        .col-lg-6.mb-5.order-1.order-lg-2
           img(src="@/assets/curso/images/tema1/img_12.svg" alt="", style="width:450px; display:block; margin: 0 auto;")
-          .row.justify-content-center.align-items-center.mt-4.d-block.d-lg-none
+          .row.justify-content-center.align-items-center.mt-4.d-block
             .col-12.col-lg-10
               .bloque-texto-d.color-secundario.p-4
                 .bloque-texto-d__texto.mb-3
@@ -300,17 +259,6 @@
                 .bloque-texto-d__autor 
                   .h5.mb-0 Cardona y Vera, 2003
 
-
-
-
-
-
-
-
-
-
-
-  
 </template>
 
 <script>

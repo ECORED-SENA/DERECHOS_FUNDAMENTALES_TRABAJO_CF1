@@ -484,37 +484,37 @@ export default {
         nombre: 'Fredy Gabriel Martínez Loza',
         cargo: 'Experto disciplinar',
         centro:
-          'Centro de desarrollo agroempresarial de Chía - Regional Cundinamarca',
+          'Centro de Desarrollo Agroempresarial de Chía - Regional Cundinamarca',
       },
       {
         nombre: 'Josué Dario Niño Riaño',
         cargo: 'Experto disciplinar',
         centro:
-          'Centro de desarrollo agroempresarial de Chía - Regional Cundinamarca',
+          'Centro de Desarrollo Agroempresarial de Chía - Regional Cundinamarca',
       },
       {
         nombre: 'José Adriano Valentín',
         cargo: 'Experto disciplinar',
         centro:
-          'Centro de desarrollo agroempresarial de Chía - Regional Cundinamarca',
+          'Centro de Desarrollo Agroempresarial de Chía - Regional Cundinamarca',
       },
       {
         nombre: 'Luis Fernando Botero',
-        cargo: 'Evaluador Instruccional',
+        cargo: 'Evaluador instruccional',
         centro:
-          'Centro para La Industria de la Comunicación Gráfica - Distrito Capital ',
+          'Centro para la Industria de la Comunicación Gráfica - Distrito Capital ',
       },
       {
         nombre: 'Octavio Jaramillo Ossa',
         cargo: 'Experto disciplinar',
         centro:
-          'Centro de desarrollo agroempresarial de Chía - Regional Cundinamarca',
+          'Centro de Desarrollo Agroempresarial de Chía - Regional Cundinamarca',
       },
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro:
-          'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -538,12 +538,6 @@ export default {
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
