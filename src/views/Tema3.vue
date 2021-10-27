@@ -10,7 +10,7 @@
       .col-12
           img(src="@/assets/curso/images/tema3/img_1.svg" alt="", style="width:1200px; display:block; margin: 0 auto;")
     #t_3_1.titulo-segundo
-      .h4 3.1.	La acción de tutela
+      h2 3.1.	La acción de tutela
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         .jumbotron-4.p-3
@@ -117,7 +117,7 @@
     Separador
 
     #t_3_2.titulo-segundo
-      .h4 3.2. El derecho de petición
+      h2 3.2 El derecho de petición
 
     .row
       .col-lg-6.mb-3 
@@ -150,7 +150,7 @@
    
       Separador 
       #t_3_3.titulo-segundo
-        .h4 3.3 Acción de cumplimiento
+        h3 3.3 Acción de cumplimiento
       
 
       .row.justify-content-center.align-items-center      
@@ -168,7 +168,7 @@
      
       Separador 
       #t_3_4.titulo-segundo
-        .h4 3.4 Acciones populares y de grupo   
+        h2 3.4 Acciones populares y de grupo   
       .jumbotron-3.p-5.mb-5.d-none.d-lg-block
         .row.mb-5
           .col-lg-7.mb-5.mb-lg-0
@@ -195,7 +195,7 @@
                 p <b>Enlace web.</b>  mecanismos constitucionales y legales para la defensa de los derechos fundamentales de las y los trabajadores de la Escuela de Liderazgo Sindical Democrático.
       Separador 
       #t_3_5.titulo-segundo
-        .h4 3.5 Mecanismos legales de protección de derechos laborales
+        h2 3.5 Mecanismos legales de protección de derechos laborales
 
       .row.justify-content-center.align-items-center.mb-4
         .col-auto.onTop

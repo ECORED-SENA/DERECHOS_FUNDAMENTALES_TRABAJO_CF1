@@ -39,7 +39,7 @@
     Separador
 
     #t_1_2.titulo-segundo
-      .h4 1.2 Derechos humanos
+      h2 1.2 Derechos humanos
     
     p.mb-3 La Declaración Universal de los Derechos Humanos es un documento que marca un hito en la historia, elaborada por representantes de todas las regiones del mundo con diferentes antecedentes jurídicos y culturales. Fue proclamada por la Asamblea General de las Naciones Unidas en París, el 10 de diciembre de 1948 como un ideal común para todos los pueblos y naciones. 
 
@@ -93,7 +93,7 @@
     Separador
 
     #t_1_3.titulo-segundo
-      .h4 1.3   Constitución política de Colombia
+      h2 1.3   Constitución política de Colombia
 
     p El pueblo de Colombia, en ejercicio de su poder soberano, representado por sus delegatarios a la Asamblea Nacional Constituyente, invocando la protección de Dios, y con el fin de fortalecer la unidad de la Nación y asegurar a sus integrantes la vida, la convivencia, el trabajo, la justicia, la igualdad, el conocimiento, la libertad y la paz, dentro de un marco jurídico, democrático y participativo que garantice un orden político, económico y social justo, y comprometido a impulsar la integración de la comunidad latinoamericana, decreta, sanciona y promulga la Constitución política de Colombia de 1991 vigente hasta la actualidad. 
     .row.d-none.d-lg-block
@@ -156,7 +156,7 @@
     Separador
 
     #t_1_4.titulo-segundo
-      .h4 1.4   El trabajo como derecho humano fundamental
+      h2 1.4   El trabajo como derecho humano fundamental
     
     
     .jumbotron-3.p-5.mb-5.d-none.d-lg-block
@@ -213,7 +213,7 @@
     Separador
 
     #t_1_5.titulo-segundo
-      .h4 1.5. Los derechos del trabajo y en el trabajo
+      h2 1.5 Los derechos del trabajo y en el trabajo
     	
     .jumbotron-5.tarjeta_Sp-6.d-none.d-lg-block
       .row.d-none.d-lg-block

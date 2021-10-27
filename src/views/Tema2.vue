@@ -24,7 +24,7 @@
     Separador
 
     #t_2_1.titulo-segundo
-      .h4 2.1 Función social del trabajo
+      h2 2.1 Función social del trabajo
 
     .row.justify-content-center.align-items-center.mb-4
       .col-auto.onTop
@@ -36,7 +36,7 @@
     Separador 
    
     #t_2_2.titulo-segundo
-      .h4 2.2 Derechos relacionados con el trabajo
+      h2 2.2 Derechos relacionados con el trabajo
 
     .row.justify-content-center.align-items-center.mb-5   
       .col-lg-6.mb-3 
@@ -100,7 +100,7 @@
 
     Separador
     #t_2_3.titulo-segundo
-      .h4 2.3. Concepto de trabajo
+      h2 2.3 Concepto de trabajo
 
     .row.justify-content-center.align-items-center
       .col-10
@@ -119,7 +119,7 @@
     Separador
 
     #t_2_4.titulo-segundo
-      .h4 2.4 Convenio colectivo
+      h2 2.4 Convenio colectivo
 
     .row.justify-content-center.align-items-center.tarjeta_Sp-2.p-4
       .col-lg-6.mb-5
@@ -142,7 +142,7 @@
 
     Separador
     #t_2_5.titulo-segundo
-      .h4 2.5 Libertad sindical
+      h2 2.5 Libertad sindical
 
     .row.justify-content-center.align-items-center.mb-5   
       .col-lg-6.mb-3 
@@ -173,7 +173,7 @@
         img(src="@/assets/curso/images/tema2/img_6.png" alt="", style="width:400px; display:block; margin: 0 auto;")         
 
     #t_2_6.titulo-segundo
-      .h4 2.6. La negociación colectiva
+      h2 2.6. La negociación colectiva
 
     p.mb-5 La negociación colectiva se concibe en los instrumentos de la OIT (1976) como la actividad o proceso encaminado a la conclusión de un contrato o acuerdo colectivo. El contrato colectivo se define en la Recomendación núm. 91 como:
 
@@ -247,7 +247,7 @@
 
 
     #t_2_7.titulo-segundo
-      .h4 2.7. Organizaciones sindicales
+      h2 2.7 Organizaciones sindicales
 
     .row.justify-content-center.align-items-center.mb-5   
       .col-lg-6.mb-3 
