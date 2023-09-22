@@ -127,13 +127,6 @@
       .col-lg-6       
         p.mb-3 El contrato colectivo de trabajo, también llamado convenio colectivo de trabajo (CCT) o convención colectiva de trabajo, es un tipo peculiar de contrato celebrado entre un sindicato o grupo de sindicatos y uno o varios empleadores, o un sindicato o grupo de sindicatos y una organización o varias representativas de los mismos. También, en caso que no exista un sindicato, puede ser celebrado por representantes de los trabajadores interesados, debidamente elegidos y autorizados por estos últimos, de acuerdo con la legislación nacional. El contrato colectivo de trabajo puede regular todos los aspectos de la relación laboral (salarios, jornada, descansos, vacaciones, licencias, condiciones de trabajo, capacitación profesional, régimen de despidos, definición de las categorías profesionales), así como determinar reglas para la relación entre los sindicatos y los empleadores (representantes en los lugares de trabajo, información y consulta, cartelera sindical, licencias y permisos para los dirigentes sindicales, etc.), esto último, como se expresa en (Didácticas para la ciudadanía laboral, .2011).
 
-        p Le invitamos a visualizar el video a continuación que ilustra sobre el convenio colectivo laboral:
-
-        a.anexo.mb-4.mb-lg-0.my-3(href="https://www.youtube.com/watch?v=y2nPDbPtgzs" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
-            .anexo__texto
-              p <b>Enlace web.</b> Que es el convenio colectivo
         a.anexo.mb-4.mb-lg-0.my-3(:href="obtenerLink('/downloads/Anexo_sobre_prestaciones_sociales.pdf')" target="_blank" type="application/pdf")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
