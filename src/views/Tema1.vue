@@ -84,11 +84,7 @@
           span.etiqueta--black Ello nos exige ambientes de aprendizaje participativos y respetuosos de los derechos humanos, requiere del 
           span.etiqueta--red <b>“[…] compromiso de reconocer y respetar los derechos humanos de los niños [y de todos los actores de la comunidad educativa] […] comprendiendo el respeto de su identidad, su autonomía y su integridad […]”.</b> 
           span.etiqueta--black MAGISTRADO CIFUENTES MUÑOZ, Eduardo. Colombia (1992). Corte Constitucional: Sentencia T-401/92. Bogotá.
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=u6rTKLa1RJk" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Enlace web.</b> Para profundizar esta temática visualizar el siguiente video: Declaración Universal de Derechos Humanos
+       
         
     Separador
 
